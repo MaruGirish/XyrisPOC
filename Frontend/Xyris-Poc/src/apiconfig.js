@@ -1,0 +1,1 @@
+export const baseRedirectUrl="http://localhost:50506/#/loading/#/"
